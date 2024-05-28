@@ -11,3 +11,14 @@ header {
 img {
     width: 10%;
 }
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+h1.nav {
+    padding: 0% 1% 0% 1%;
+}
+h1 {
+    padding: 0% 1% 0% 1%;
+}
